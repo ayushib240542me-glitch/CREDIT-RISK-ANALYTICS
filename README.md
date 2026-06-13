@@ -1,5 +1,6 @@
 # CREDIT-RISK-ANALYTICS
 # Credit Risk Analytics — Loan Default Prediction
+<img width="1670" height="456" alt="image" src="https://github.com/user-attachments/assets/5d52f980-7a38-4ada-87cc-4649aa9b6761" />
 
 End-to-end analytics project on a 32,581-record loan dataset, covering data cleaning, exploratory analysis, SQL-based segmentation, and a baseline machine learning model to predict borrower default.
 
@@ -91,8 +92,6 @@ Logistic Regression baseline with 12 engineered and raw features, 80/20 stratifi
 |---|---|
 | `credit_risk_analysis.ipynb` | Full notebook — Days 1–9 |
 | `day10_logistic_regression.py` | Logistic regression model and evaluation |
-| `loan_analysis.db` | SQLite database with cleaned data |
-| `portfolio_summary.csv`, `q7_*.csv`, `day10_predictions.csv` | Exported query and model results |
 | `day10_model_results.png` | Confusion matrix, ROC curve, feature importance chart |
 
 ## Author
